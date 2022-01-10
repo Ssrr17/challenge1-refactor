@@ -21,3 +21,7 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+Screenshot: https://user-images.githubusercontent.com/95061054/148713937-51e7059d-30f5-410a-987f-8ba6a934db13.png
+
+Page Link: https://ssrr17.github.io/challenge1-refactor/
+
